@@ -1,0 +1,19 @@
+{
+  "type": "GenericCrafter",
+  "name": "copper press",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "copper", "amount": 25},
+   ],
+  "consumes": {
+   "items": [
+    {"item": "scrap", "amount": 1},
+   ]
+  }
+  "hasItems": true,
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "copper", "amount": 1}
+}

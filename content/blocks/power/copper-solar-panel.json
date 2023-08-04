@@ -1,0 +1,13 @@
+{
+	"name": "copper solar panel",
+	"type": "SolarGenerator",
+	"health": 100,
+	"size": 2,
+	"hasPower": true,
+	"powerProduction": 1,
+	"requirements": [
+		{ "item": "copper", "amount": 50},
+		{ "item": "silicon", "amount": 50},
+	],
+	"category": "power",
+}

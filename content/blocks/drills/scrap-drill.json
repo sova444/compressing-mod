@@ -7,6 +7,7 @@
    { "item": "copper", "amount": 25},
    ],
   "hasItems": true,
+  "research": "mechanical-drill"
   "craftTime": 15,
   "category": "production",
   "itemCapacity": 20,

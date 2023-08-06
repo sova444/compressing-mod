@@ -4,6 +4,7 @@
 	"health": 100,
 	"size": 2,
 	"hasPower": true,
+        "research": "solar-panel"
 	"powerProduction": 1,
 	"requirements": [
 		{ "item": "copper", "amount": 50},

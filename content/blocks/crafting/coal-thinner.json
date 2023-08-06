@@ -4,6 +4,8 @@
   "health": 100,
   "size": 2,
   "hasLiquid": true,
+  "hasItems": true
+  "research": "coal-press"
    "requirements": [
    {"item": "copper", "amount": 30},
    {"item": "metaglass", "amount": 25},
@@ -17,5 +19,6 @@
   "craftTime": 60,
   "category": "crafting",
   "liquidCapacity": 120,
+  "itemCapacity": 20,
   "outputLiquid": { "liquid": "oil", "amount": 0.25}
 }

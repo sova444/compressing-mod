@@ -12,6 +12,7 @@
    ]
   }
   "hasItems": true,
+  "research": "copper-press"
   "craftTime": 60,
   "category": "crafting",
   "itemCapacity": 20,

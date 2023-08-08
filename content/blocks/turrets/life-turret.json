@@ -1,6 +1,7 @@
 {
  "type": "itemTurret",
  "name": "life turret",
+ "health": 300,
  "size": 1,
  "requirements": [
         {"item": "copper", "amount": 50},

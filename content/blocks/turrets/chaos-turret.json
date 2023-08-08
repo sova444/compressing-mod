@@ -1,6 +1,7 @@
 {
  "type": "itemTurret",
  "name": "chaos turret",
+ "health": 300,
  "size": 1,
  "requirements": [
         {"item": "copper", "amount": 100},

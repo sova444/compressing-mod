@@ -18,6 +18,7 @@
   "scrap": {
    "type": "SapBulletType",
       "damage": 20,
+      "pierceArmor": true,
       "ammoMultiplier": 5,
       "length": 200,
       "width": 1,

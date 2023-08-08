@@ -17,6 +17,7 @@
   "copper": {
    "type": "MissileBulletType",
       "damage": 20,
+      "pierceArmor": true,
       "speed": 4,
       "lifetime": 50,
       "ammoMultiplier": 5,
@@ -26,6 +27,7 @@
   "scrap": {
    "type": "MissileBulletType",
       "damage": 5,
+      "pierceArmor": true,
       "splashDamage": 10,
       "splashDamageRadius": 30,
       "speed": 4,

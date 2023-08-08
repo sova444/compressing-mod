@@ -16,7 +16,18 @@
  "ammoTypes": {
   "copper": {
    "type": "MissileBulletType",
-      "damage": 15,
+      "damage": 20,
+      "speed": 4,
+      "lifetime": 50,
+      "ammoMultiplier": 5,
+      "homingPower": 1,
+      "homingRange": 20,
+  }
+  "scrap": {
+   "type": "MissileBulletType",
+      "damage": 5,
+      "splashDamage": 10,
+      "splashDamageRadius": 30,
       "speed": 4,
       "lifetime": 50,
       "ammoMultiplier": 5,

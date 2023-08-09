@@ -1,0 +1,11 @@
+{
+	"name": "compression",
+	"displayName": "compression",
+	"author": "sovakovrik",
+	"description": "",
+	"version": "1",
+	"hidden": true,
+
+	"minGameVersion": "145",
+	"dependencies": []
+}

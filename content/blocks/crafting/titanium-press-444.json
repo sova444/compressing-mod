@@ -1,0 +1,22 @@
+{
+  "type": "GenericCrafter",
+  "name": "titanium press",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "lead", "amount": 50},
+   {"item": "silicon", "amount": 20},
+   ],
+  "consumes": {
+   "power": 0.5,
+    "items": [
+     {"item": "scrap", "amount": 3},
+    ]
+   }
+  "hasItems": true,
+  "research": "lead-press-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "titanium", "amount": 1}
+}

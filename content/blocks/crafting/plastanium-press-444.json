@@ -1,0 +1,22 @@
+{
+  "type": "GenericCrafter",
+  "name": "plastanium press",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "titanium", "amount": 50},
+   {"item": "plastanium", "amount": 20},
+   ],
+  "consumes": {
+   "power": 5,
+    "items": [
+     {"item": "scrap", "amount": 12},
+    ]
+   }
+  "hasItems": true,
+  "research": "coal-thinner-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 40,
+  "outputItem": { "item": "plastanium", "amount": 1}
+}

@@ -1,0 +1,20 @@
+{
+  "type": "GenericCrafter",
+  "name": "lead press",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "copper", "amount": 50},
+   ],
+  "consumes": {
+   "items": [
+    {"item": "scrap", "amount": 2},
+   ]
+  }
+  "hasItems": true,
+  "research": "copper-press-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "lead", "amount": 1}
+}

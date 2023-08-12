@@ -1,0 +1,14 @@
+{
+ "type": "Conveyor",
+ "name": "graphite conveyor",
+ "category": "distribution",
+ "health": 100,
+ "speed": 0.16,
+ "displayedSpeed": 16,
+ "requirements": [
+   {"item": "copper", "amount": 3},
+   {"item": "lead", "amount": 3},
+   {"item": "graphite", "amount": 2},
+ ],
+ "research": "conveyor"
+}

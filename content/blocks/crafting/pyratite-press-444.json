@@ -1,0 +1,22 @@
+{
+  "type": "GenericCrafter",
+  "name": "pyratite press",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "copper", "amount": 100},
+   {"item": "lead", "amount": 50},
+   ],
+  "consumes": {
+   "power": 1.5,
+    "items": [
+     {"item": "scrap", "amount": 6},
+    ]
+   }
+  "hasItems": true,
+  "research": "silicon-smelter"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "pyratite", "amount": 1}
+}

@@ -1,0 +1,25 @@
+{
+	"name": "silicon drill",
+	"type": "Drill",
+	"size": 2,
+	"tier": 5,
+	"drillTime": 120,
+	"rotateSpeed": 1.5,
+	"warmupSpeed": 0.005,
+	"liquidBoostIntensity": 1.5,
+	"liquidCapacity": 10,
+	"consumes": {
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.05,
+			"optional": true,
+			"booster": true
+		},
+	},
+	"requirements": [
+		"copper/40",
+		"silicon/20"
+	],
+	"category": "production",
+	"research": "pneumatic-drill"
+}

@@ -1,0 +1,34 @@
+{
+ "type": "itemTurret",
+ "name": "life turret",
+ "health": 300,
+ "size": 1,
+ "requirements": [
+        {"item": "copper", "amount": 50},
+        {"item": "lead", "amount": 20},
+        {"item": "processor-1-444", "amount": 5},
+ ],
+ "targetAir": true,
+ "targetGround": true,
+ "reload": 15,
+ "range": 200,
+ "shootCone": 1,
+ "rotateSpeed": 6,
+ "shootSound": "none",
+ "ammoTypes": {
+  "scrap": {
+   "type": "MissileBulletType",
+      "damage": 5,
+      "pierceArmor": true,
+      "splashDamage": 10,
+      "splashDamageRadius": 30,
+      "speed": 4,
+      "lifetime": 50,
+      "ammoMultiplier": 5,
+      "homingPower": 1,
+      "homingRange": 20,
+  }
+ },
+  "research": "duo",
+  "category": "turret"
+}

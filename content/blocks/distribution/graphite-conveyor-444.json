@@ -3,7 +3,7 @@
  "name": "graphite conveyor",
  "category": "distribution",
  "health": 100,
- "speed": 0.16,
+ "speed": 0.12,
  "displayedSpeed": 16,
  "requirements": [
    {"item": "copper", "amount": 3},

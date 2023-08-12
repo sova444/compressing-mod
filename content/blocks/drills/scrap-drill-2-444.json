@@ -10,8 +10,8 @@
    ],
   "hasItems": true,
   "research": "scrap-drill-1-444"
-  "craftTime": 60,
+  "craftTime": 15,
   "category": "production",
   "itemCapacity": 20,
-  "outputItem": { "item": "scrap", "amount": 4}
+  "outputItem": { "item": "scrap", "amount": 1}
 }

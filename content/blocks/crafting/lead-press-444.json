@@ -8,9 +8,10 @@
    ],
   "consumes": {
    "items": [
-    {"item": "scrap", "amount": 2},
+    {"item": "copper", "amount": 1},
    ]
   }
+   "power": 1,67
   "hasItems": true,
   "research": "copper-press-444"
   "craftTime": 60,

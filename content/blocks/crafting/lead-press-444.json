@@ -10,7 +10,7 @@
    "items": [
     {"item": "copper", "amount": 1},
    ]
-   "power": 1.67,
+   "power": 2,
   }
   "hasItems": true,
   "research": "copper-press-444"

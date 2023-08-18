@@ -1,0 +1,17 @@
+{
+  "type": "GenericCrafter",
+  "name": "scrap drill II",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   { "item": "copper", "amount": 100},
+   { "item": "processor-1-444", "amount": 50},
+   { "item": "graphite", "amount": 100},
+   ],
+  "hasItems": true,
+  "research": "scrap-drill-1-444"
+  "craftTime": 10,
+  "category": "production",
+  "itemCapacity": 20,
+  "outputItem": { "item": "scrap", "amount": 1}
+}

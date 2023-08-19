@@ -16,7 +16,7 @@
  "rotateSpeed": 6,
  "shootSound": "none",
  "ammoTypes": {
-  "scrap": {
+  "lead": {
    "type": "SapBulletType",
       "damage": 20,
       "pierceArmor": true,

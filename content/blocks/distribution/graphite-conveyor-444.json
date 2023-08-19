@@ -6,9 +6,9 @@
  "speed": 0.12,
  "displayedSpeed": 16,
  "requirements": [
-   {"item": "copper", "amount": 3},
-   {"item": "lead", "amount": 3},
-   {"item": "graphite", "amount": 2},
+  "copper/3",
+  "lead/3",
+  "graphite/3",
  ],
  "research": "conveyor"
 }

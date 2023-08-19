@@ -4,7 +4,7 @@
   "health": 100,
   "size": 1,
    "requirements": [
-   { "item": "copper", "amount": 25},
+    "copper/25",
    ],
   "hasItems": true,
   "research": "mechanical-drill"

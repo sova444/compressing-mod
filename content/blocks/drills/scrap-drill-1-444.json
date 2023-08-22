@@ -8,7 +8,7 @@
    ],
   "hasItems": true,
   "research": "mechanical-drill"
-  "craftTime": 12,
+  "craftTime": 300,
   "category": "production",
   "itemCapacity": 20,
   "outputItem": { "item": "scrap", "amount": 1}

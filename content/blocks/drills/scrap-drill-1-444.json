@@ -4,11 +4,12 @@
   "health": 100,
   "size": 1,
    "requirements": [
-    "copper/25",
+    "copper/40",
+    "lead/10",
    ],
   "hasItems": true,
   "research": "mechanical-drill"
-  "craftTime": 300,
+  "craftTime": 600,
   "category": "production",
   "itemCapacity": 20,
   "outputItem": { "item": "scrap", "amount": 1}

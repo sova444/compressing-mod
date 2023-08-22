@@ -1,14 +1,17 @@
 {
   "type": "GenericCrafter",
-  "name": "scrap drill I",
-  "health": 100,
+  "name": "scrap drill III",
+  "health": 300,
   "size": 1,
    "requirements": [
-    "copper/25",
+    "copper/100",
+    "lead/50",
+    "graphite/20",
+    "titanium/10",
    ],
   "hasItems": true,
-  "research": "mechanical-drill"
-  "craftTime": 12,
+  "research": "scrap-drill-2-444"
+  "craftTime": 60,
   "category": "production",
   "itemCapacity": 20,
   "outputItem": { "item": "scrap", "amount": 1}

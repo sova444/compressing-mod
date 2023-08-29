@@ -5,7 +5,6 @@
   "size": 1,
    "requirements": [
     "copper/40",
-    "lead/10",
    ],
   "hasItems": true,
   "research": "mechanical-drill"

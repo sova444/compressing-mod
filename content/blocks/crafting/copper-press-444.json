@@ -7,9 +7,7 @@
    {"item": "copper", "amount": 25},
    ],
   "consumes": {
-   "items": [
-    {"item": "scrap", "amount": 1},
-   ]
+   "power": 1
   }
   "hasItems": true,
   "research": "scrap-drill-1-444"

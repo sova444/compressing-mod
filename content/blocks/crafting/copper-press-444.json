@@ -1,0 +1,18 @@
+{
+  "type": "GenericCrafter",
+  "name": "copper press",
+  "health": 100,
+  "size": 1,
+   "requirements": [
+   {"item": "copper", "amount": 25},
+   ],
+  "consumes": {
+   "power": 1
+  }
+  "hasItems": true,
+  "research": "scrap-drill-1-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "copper", "amount": 1}
+}

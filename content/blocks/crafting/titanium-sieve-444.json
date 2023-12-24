@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "titanium sieve",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "lead", "amount": 30},
+   {"item": "silicon", "amount": 20},
+   ],
+  "consumes": {
+   "items": [
+     {"item": "sand", "amount": 5},
+    ]
+   }
+  "hasItems": true,
+  "research": "lead-sieve-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "titanium", "amount": 1}
+}

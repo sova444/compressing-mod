@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "thorium sieve",
+  "health": 100,
+  "size": 2,
+   "requirements": [
+   {"item": "titanium", "amount": 80},
+   {"item": "plastanium", "amount": 30},
+   ],
+  "consumes": {
+   "items": [
+     {"item": "sand", "amount": 6},
+    ]
+   }
+  "hasItems": true,
+  "research": "titanium-sieve-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "thorium", "amount": 1}
+}

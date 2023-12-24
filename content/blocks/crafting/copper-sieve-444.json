@@ -1,0 +1,20 @@
+{
+  "type": "GenericCrafter",
+  "name": "copper sieve",
+  "health": 100,
+  "size": 1,
+   "requirements": [
+   {"item": "copper", "amount": 40},
+   ],
+  "consumes": {
+   "items": [
+     {"item": "sand", "amount": 1},
+    ]
+  }
+  "hasItems": true,
+  "research": "sand-drill-444"
+  "craftTime": 60,
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "copper", "amount": 1}
+}

@@ -1,0 +1,22 @@
+{
+  "type": "GenericCrafter",
+  "name": "smelter",
+  "health": 100,
+  "size": 1,
+  "hasLiquid": true,
+  "hasItems": true
+  "research": "scrap-drill-444"
+   "requirements": [
+   {"item": "copper", "amount": 25},
+   ],
+  "consumes": {
+    "items": [
+     {"item": "scrap", "amount": 1},
+    ]
+   }
+  "craftTime": 60,
+  "category": "crafting",
+  "liquidCapacity": 120,
+  "itemCapacity": 20,
+  "outputLiquid": { "liquid": "slag", "amount": 0.03}
+}

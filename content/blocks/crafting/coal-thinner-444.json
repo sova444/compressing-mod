@@ -1,0 +1,24 @@
+{
+  "type": "GenericCrafter",
+  "name": "coal thinner",
+  "health": 100,
+  "size": 2,
+  "hasLiquid": true,
+  "hasItems": true
+  "research": "titanium-press-444"
+   "requirements": [
+   {"item": "titanium", "amount": 30},
+   {"item": "metaglass", "amount": 25},
+   ],
+  "consumes": {
+   "power": 2,
+    "items": [
+     {"item": "coal", "amount": 4},
+    ]
+   }
+  "craftTime": 60,
+  "category": "crafting",
+  "liquidCapacity": 120,
+  "itemCapacity": 20,
+  "outputLiquid": { "liquid": "oil", "amount": 0.25}
+}

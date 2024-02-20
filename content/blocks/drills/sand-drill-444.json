@@ -1,0 +1,16 @@
+{
+  "type": "GenericCrafter",
+  "name": "sand drill",
+  "health": 100,
+  "size": 1,
+   "requirements": [
+    "copper/30",
+    "graphite/10",
+   ],
+  "hasItems": true,
+  "research": "mechanical-drill"
+  "craftTime": 60,
+  "category": "production",
+  "itemCapacity": 20,
+  "outputItem": { "item": "sand", "amount": 1}
+}
